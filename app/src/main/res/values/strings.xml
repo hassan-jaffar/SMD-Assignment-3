@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="welcomeTitle">Weclome to Password Management System</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="footer">Developed by Hassan Jaffar</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="smd_assignment_3">SMD Assignment 3</string>
+    <string name="welcome_to_home_page">Welcome to Home Page</string>
+    <string name="enter_website_url">Enter Website Url</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="website_url">Website Url</string>
+    <string name="restore">Restore</string>
+    <string name="add">Add</string>
+    <string name="add_a_new_password">Add a new Password</string>
+    <string name="delete_permanently">Delete Permanently</string>
+    <string name="remove">Remove</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="cancel">CANCEL</string>
+</resources>
